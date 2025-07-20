@@ -1,8 +1,8 @@
 apiVersion: v3
 kind: system
 metadata:
-  name: NewHotelApp
-  displayName: Hotel App
+  name: newhotelapp
+  displayName: New Hotel Hotel App
 spec:
   components:
   - "service:location-service"
