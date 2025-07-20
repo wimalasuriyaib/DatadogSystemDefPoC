@@ -5,5 +5,5 @@ metadata:
   displayName: Hotel App
 spec:
   components:
-  - "service:api-gateway"
-  - "service:car-service"
+  - "service:location-service"
+  - "service:location-service-0.0.1-snapshot"
