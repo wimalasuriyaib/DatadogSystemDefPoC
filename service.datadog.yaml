@@ -1,0 +1,9 @@
+apiVersion: v3
+kind: system
+metadata:
+  name: NewHotelApp
+  displayName: Hotel App
+spec:
+  components:
+  - "service:api-gateway"
+  - "service:car-service"
