@@ -1,0 +1,9 @@
+apiVersion: v3
+kind: system
+metadata:
+  name: newhotelapp
+  displayName: New Hotel Hotel App
+spec:
+  components:
+  - "service:reservation-service"
+  - "service:reservation-service-0.0.1-snapshot"
