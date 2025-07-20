@@ -1,8 +1,8 @@
 apiVersion: v3
 kind: system
 metadata:
-  name: newhotelapp
-  displayName: New Hotel Hotel App
+  name: newreservation
+  displayName: New Reservation App
 spec:
   components:
   - "service:reservation-service"
